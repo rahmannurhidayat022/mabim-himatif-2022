@@ -22,3 +22,6 @@
 * Mempercantik tampilan website blog dengan standar CSS3
 * Membuat Back-end untuk mengelola data blog dengan ExpressJs
 * Melakukan Delpoy atau Hosting dengan Heroku
+
+## Kontak
+* <a href="https://t.me/rahman_nhidayat">Telegram</a>
