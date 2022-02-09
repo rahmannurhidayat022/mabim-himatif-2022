@@ -3,10 +3,8 @@
 
 ## Program Fullstack Web Developer
 **Materi yang akan disampaikan**
-<ul>
-  <li>HTML<li>
-  <li>CSS<li>
-  <li>Bahasa pemrograman Javascript<li>
-  <li>Membuat Back-End menggunakan Javascript engine (NodeJs)<li>
-  <li>Deploy aplikasi<li>
-</ul>
+* HTML
+* CSS
+* Bahasa pemrograman Javascript
+* Javascript engine atau NodeJs (Back-End)
+* Deploy aplikasi
