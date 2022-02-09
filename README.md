@@ -2,7 +2,7 @@
 <p>Masa Bimbingan adalah program tahunan yang diselenggarakan oleh Himpunan informatika STMIK Amik Bandung untuk melatih anggota baru menyesuaikan aktifitas sebagai mahasiswa teknik informatika</p>
 
 ## Program Fullstack Web Developer
-**Materi yang akan disampaikan
+**Materi yang akan disampaikan**
 <ul>
   <li>HTML<li>
   <li>CSS<li>
