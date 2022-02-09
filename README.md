@@ -2,7 +2,7 @@
 <p>Masa Bimbingan adalah program tahunan yang diselenggarakan oleh Himpunan informatika STMIK Amik Bandung untuk melatih anggota baru menyesuaikan aktifitas sebagai mahasiswa teknik informatika</p>
 
 ## Program Fullstack Web Developer
-**Materi yang akan disampaikan : **
+**Materi yang akan disampaikan :**
 * Penggunaan Visual studio code
 * HTML
 * CSS
@@ -10,14 +10,14 @@
 * Javascript engine atau NodeJs (Back-End)
 * Deploy aplikasi
 
-**Tools yang dibutuhkan : **
+**Tools yang dibutuhkan :**
 * Internet & device seperti PC atau Laptop
 * Visual studio code (Dengan beberapa ekstensi dan settings)
 * Browser (Google chrome, Mozilla firefox, etc)
 * NodeJs LTS
 * Heroku (Deploy)
 
-**Final project : **
+**Final project :**
 * Membuat struktur website blog dengan standar HTML5
 * Mempercantik tampilan website blog dengan standar CSS3
 * Membuat Back-end untuk mengelola data blog dengan ExpressJs
