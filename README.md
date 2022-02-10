@@ -24,9 +24,9 @@
 * Melakukan Delpoy atau Hosting dengan Heroku
 
 ## Sharing file
-* <a href="https://whimsical.com/abstrak-blog-AUY2KBiNeKJ42ACpwfoJdW">Wireframe mini project blog</a>
-* <a href="https://whimsical.com/struktur-html-UKpsu9TJFgAPnW6JwCHVZX">Struktur elemen HTML</a>
-* <a href="https://docs.google.com/document/d/1rV6CHIjrWWPnlljZKIllH9I2dFyhliyU9AkICqA0Xik/edit?usp=sharing"> Docs materi pertemuan ke 3</a>
+* <a target="_blank" href="https://whimsical.com/abstrak-blog-AUY2KBiNeKJ42ACpwfoJdW">Wireframe mini project blog</a>
+* <a target="_blank" href="https://whimsical.com/struktur-html-UKpsu9TJFgAPnW6JwCHVZX">Struktur elemen HTML</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1rV6CHIjrWWPnlljZKIllH9I2dFyhliyU9AkICqA0Xik/edit?usp=sharing"> Docs materi pertemuan ke 3</a>
 
 ## Kontak
-* <a href="https://t.me/rahman_nhidayat">Telegram</a>
+* <a href="https://t.me/rahman_nhidayat" target="_blank">Telegram</a>
